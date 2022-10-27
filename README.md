@@ -1,10 +1,14 @@
-# untitled
+# PUSH BUTTON GAME
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Getting Started
+# Android
+![Screenshot_20221027_133202](https://user-images.githubusercontent.com/94286342/198230217-4aa2a7b0-8c1f-47d3-b078-b62ba44dbe46.png)
+# IOS
+![Simulator Screen Shot - iPhone 14 Pro - 2022-10-27 at 13 31 04](https://user-images.githubusercontent.com/94286342/198229885-9e222daa-4a0e-4158-9dbc-4933f6b046bc.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
